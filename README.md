@@ -3,4 +3,4 @@
 - Java programmer with days of experience
 - Lua programmer with of experience
 - SQL programmer with xkcd comics of experience
-- I like these robot animal guys idk how you say it but 
+- I like these robot animal-human guys idk how you say it but 
